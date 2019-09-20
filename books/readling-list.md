@@ -44,3 +44,6 @@ This list compiles all books I have read or are looking to read soon.
 
 | Read  | Title                                                                       | Author                  |
 | ----- | --------------------------------------------------------------------------- | ----------------------- |
+| Yes   | Beginning investing                                                         | Danielle Schultz        |
+| No    | The Intelligent Investor Rev Ed.                                            | Benjamin Graham         |
+| No    | Antifragile                                                                 | Nassim Nicholas Taleb   |
