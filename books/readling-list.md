@@ -4,8 +4,25 @@ This list compiles all books I have read or are looking to read soon.
 
 ## Technical
 
-| Read  | Title                                                                       | Author                  |
-| ----- | --------------------------------------------------------------------------- | ----------------------- |
+| Read  | Title                                                                       | Author                          |
+| ----- | --------------------------------------------------------------------------- | ------------------------------- |
+| Yes   | Algorithms to Live By                                                       | Brian Christian, Tom Griffiths  |
+| Yes   | Refactoring                                                                 | Martin Fowler                   |
+| Yes   | Clean Architecture                                                          | Martin Fowler                   |
+| Yes   | Clean Code                                                                  | Martin Fowler                   |
+| Yes   | Cracking the Coding Interview                                               | Gayle Laakmann McDowell         |
+| No    | Grokking Algorithms                                                         | Aditya Bhargava                 |
+| No    | Understanding Software                                                      | Max Kanat-Alexander             |
+| No    | Test Driven Development                                                     | Kent Beck                       |
+| No    | xUnit Test Patterns                                                         | Gerard Meszaros                 |
+| No    | Design It!                                                                  | Michael Keeling                 |
+| No    | Simple and Usable Web, Mobile, and Interaction Design                       | Giles Colborne                  |
+| No    | Zero Bugs and Program Faster                                                | Kate Thompson                   |
+| No    | The Pragmatic Programmer                                                    | Andrew Hunt, David Thomas       |
+| No    | Don't Make Me Think, Revisited                                              | Steve Krug                      |
+| No    | Accelerate: The Science of Lean Software and DevOps                         | Nicole Forsgren PhD, Jez Humble |
+| No    | The Phoenix Project                                                         | Gene Kim, Kevin Behr            |
+| No    | The DevOps Handbook                                                         | Gene Kim, Patrick Debois        |
 
 ## Soft Skills
 
@@ -21,6 +38,7 @@ This list compiles all books I have read or are looking to read soon.
 | No    | Software Developer Life                                                     | David Xiang             |
 | No    | The Manager's Path                                                          | Camille Fournier        |
 | No    | Everybody Writes                                                            | Ann Handley             |
+| No    | The Clean Coder                                                             | Martin Fowler           |
 
 ## Financial
 
