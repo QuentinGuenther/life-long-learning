@@ -23,6 +23,7 @@ This list compiles all books I have read or are looking to read soon.
 | No    | Accelerate: The Science of Lean Software and DevOps                         | Nicole Forsgren PhD, Jez Humble |
 | No    | The Phoenix Project                                                         | Gene Kim, Kevin Behr            |
 | No    | The DevOps Handbook                                                         | Gene Kim, Patrick Debois        |
+| No    | Code Complete                                                               | Steve McConnell                 |
 
 ## Soft Skills
 
@@ -39,6 +40,11 @@ This list compiles all books I have read or are looking to read soon.
 | No    | The Manager's Path                                                          | Camille Fournier        |
 | No    | Everybody Writes                                                            | Ann Handley             |
 | No    | The Clean Coder                                                             | Martin Fowler           |
+| No    | The War of Art                                                              | Steven Pressfield       |
+| No    | New Psycho-Cybernetics                                                      | Maxwell Maltz           |
+| No    | The Power of Positive Thinking                                              | Norman Vincent Peale    |
+| No    | Atlas Shrugged                                                              | Ayn Rand                |
+| No    | The Power of Positive Thinking                                              | Norman Vincent Peale    |
 
 ## Financial
 
@@ -47,3 +53,7 @@ This list compiles all books I have read or are looking to read soon.
 | Yes   | Beginning investing                                                         | Danielle Schultz        |
 | No    | The Intelligent Investor Rev Ed.                                            | Benjamin Graham         |
 | No    | Antifragile                                                                 | Nassim Nicholas Taleb   |
+| No    | Think and Grow Rich                                                         | Napoleon Hill           |
+| No    | The Millionaire Real Estate Investor                                        | Gary Keller             |
+| No    | Rich Dad, Poor Dad                                                          | Robert Kiyosaki         |
+| No    | No-Hype Options Trading                                                     | Kerry Given             |
